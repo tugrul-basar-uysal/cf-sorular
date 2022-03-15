@@ -32,3 +32,4 @@ def x(liste):
     print(liste)
 
 x(ls)
+#denemesldkfjaslşdkfjaşlsdkfja
